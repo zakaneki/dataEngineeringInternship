@@ -36,7 +36,7 @@ aws dynamodb put-item --table-name FirstTableAZ \
 aws dynamodb query \
     --table-name FirstTableAZ \
     --key-condition-expression "ID = :id AND Height = :height" \
-    --expression-attribute-values '{":id":{"N":"1"},"height":{"S":"1.91m"}}' \
+    --expression-attribute-values "{\":id\":{\"N\":\"1\"},"height":{\"S\":\"1.91m\"}}" \
     --scan-index-forward true
 
 # 4.7. Retrieve items and filter by some additional column
