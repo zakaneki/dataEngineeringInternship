@@ -1,0 +1,11 @@
+SELECT
+    DATE(time_date) AS date,  -- Extract the date from the timestamp
+    'Kyiv' AS city,                  -- Hardcode the city
+    'Ukraine' AS country,            -- Hardcode the country
+    AVG(measurement_pm100atmo * tourist_estimation) AS pollution_total_visitor
+FROM
+    "AwsDataCatalog"."pollution-az"."pollution1658___8__kyiv__ukraine_1b661db1a045888f374d30843e5440e0"                 -- Replace with the actual table name
+GROUP BY
+    DATE(time_date)        -- Group by the date
+ORDER BY
+    date;
