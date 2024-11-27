@@ -1,0 +1,23 @@
+Data Analysis Report
+Daily PM100 Measurement vs Tourist Estimation
+The first chart shows the daily measurements of PM100 (Particulate Matter 100) alongside the estimated tourist numbers over time. A few key observations:
+
+There is a general correlation between the PM100 measurements and the tourist estimation, suggesting that tourism levels may be contributing to pollution levels in the region.
+However, the relationship is not perfectly linear, as there are instances where PM100 spikes without a corresponding increase in tourist numbers, and vice versa.
+The tourist estimation appears to flatten out towards the end of the time period, while the PM100 measurements continue to fluctuate, indicating that there may be other factors beyond just tourism driving the pollution levels.
+
+Pollution Total Visitor Over Time (Kyiv, Ukraine)
+The second chart shows the total pollution visitors over time in Kyiv, Ukraine. A few insights from this data:
+
+There is a sharp decline in pollution visitors around April 2022, which coincides with the withdrawal of Russian forces from Kyiv.
+After this decline, the pollution visitor numbers start to steadily increase again, suggesting a recovery in activity and potentially a resumption of tourism.
+However, the pollution visitor numbers do not reach the same peak levels as before the April 2022 drop, indicating that the overall pollution levels may not have fully rebounded yet.
+It's possible that the measurement tools or data collection methods changed after April 2022, leading to the flat-lining of the pollution visitor numbers. This would require further investigation to confirm.
+
+Potential Insights
+Based on the analysis of these two datasets, a few potential insights emerge:
+
+Tourism levels appear to be correlated with pollution levels in the Kyiv region, but there are likely other contributing factors beyond just tourism.
+The withdrawal of Russian forces from Kyiv in April 2022 seemed to have a significant impact on reducing pollution levels, potentially due to decreased economic and industrial activity.
+The pollution levels have not fully recovered to pre-April 2022 levels, suggesting there may be lingering effects from the conflict or other structural changes in the region.
+There are some indications that the measurement or data collection methods may have changed after April 2022, which could be impacting the pollution visitor data and making it difficult to draw definitive conclusions.
